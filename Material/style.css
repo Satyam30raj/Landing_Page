@@ -103,6 +103,11 @@ footer .right{
   border-radius: 10px;
   
 }
+.content button a{
+  text-decoration: none;
+  color: white;
+  display: block;
+}
 .content button:hover,i:hover{
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
